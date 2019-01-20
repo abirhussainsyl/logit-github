@@ -1,0 +1,156 @@
+@media (min-width: 200px) and (max-width: 399.98px) {
+    
+    .sticky-top {
+   
+}
+    
+    .navbar-toggler-icon i{
+        font-size:28px;
+    }
+    .custom-nav ul{
+     text-align:center;
+    }
+    .middle-nav-button{
+	margin-right: 0px;
+}
+.header-content{
+	padding-top: 90px;
+}    
+.header-content h2{
+	font-size: 22px;
+}
+.header-content span{
+	font-size: 14px;
+	text-transform: capitalize;
+}
+.header-content .top-bottom-arrow{
+	padding: 10px;
+	width: 90%;
+}
+.header-hero img{
+	width: 200px;\
+	height: auto;
+}
+.second-sec{
+	min-height: 300px;
+}
+.why-use-head h2{
+	font-size: 25px;
+	font-weight: bold;
+}
+.single-feature{
+	border: none!important;
+	padding: 5px 10px 10px 10px;
+	border-bottom:1px solid #808080!important;
+	width:90%;
+	margin:0px auto;
+	margin-bottom:35px!important;
+}
+.client-parent{
+	display: block;
+	margin-top: 50px;
+}
+.client-child{
+	text-align: center;
+	margin-bottom: 40px;
+	border: none!important;
+}
+.client-parent img{
+	width: 120px;
+}
+.client-sec-head h2{
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.client-main{
+	padding: 10px 10px 5px 40px ;
+}
+.language-parent{
+ display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+  justify-content: center;
+}
+.language-parent>div{
+  text-align:center;
+  margin:5px;
+  flex-basis: 30%!important;
+
+}
+.language-parent .language-child:nth-child(1){
+	margin-top: 0px;
+}
+.register-section{
+
+	min-height: 230px;
+	}
+.register-head p{
+	font-size: 20px;
+}	
+.register-head-link a{
+	font-size: 16px!important;
+	padding: 12px 10px!important;
+	border-radius: 10px;
+}
+.footer-section p{
+	font-size: 14px;
+}
+
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 400px) and (max-width: 499.98px) {
+
+}
+@media (min-width: 500px) and (max-width: 575.98px) {	
+     .client-parent{
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.client-parent>div{
+  text-align:center;
+  margin:5px;
+  flex-basis: 30%!important;
+
+}
+    
+ 
+    
+	}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   
+
+	}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+	}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) and (max-width: 1395.98px) { 
+
+	}
